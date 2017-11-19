@@ -1,2 +1,2 @@
 # ds-destroyer
-Removes all .DS_Store files in a directory
+- Removes all .DS_Store files in a directory
